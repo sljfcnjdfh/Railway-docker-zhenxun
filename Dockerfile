@@ -3,7 +3,7 @@ ARG DATABASE_URL
 ARG NGROK_TOKEN
 ENV DEBIAN_FRONTEND=noninteractive
 ENV SOURCE_URL https://pan.yropo.workers.dev/source/zhenxun/
-# ENV SOURCE_KEY ?rootId=0AHwYBwaQO4iYUk9PVA
+# ENV SOURCE_KEY ?rootId=2KJFR7h55qetpZWvh59KW3pd1Ma_3tJ9ErN68u2fZyBvWGJ73
 ENV ZHENXUN_URL https://github.com/HibiKier/zhenxun_bot
 ENV ZHENXUN_DIR /root/zhenxun_bot
 ENV CQHTTP_DIR /root/go-cqhttp
